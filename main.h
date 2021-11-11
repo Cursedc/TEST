@@ -7,6 +7,7 @@
 #pragma once
 
 int sum(int a, int b);
+int biggest(int a,int b);
 
 
 
